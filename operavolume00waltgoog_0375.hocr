@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operavolume00waltgoog_0375.png"; bbox 0 0 2794 5085; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 266 301 2470 431">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 266 301 2470 431">
+     <span class='ocr_line' id='line_1_1' title="bbox 266 301 2470 431; baseline -0.028 -2"><span class='ocrx_word' id='word_1_1' title='bbox 266 301 270 305; x_wconf 33' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_2' title='bbox 331 327 604 426; x_wconf 54' lang='lat'>2:323&amp;</span> <span class='ocrx_word' id='word_1_3' title='bbox 794 315 1239 412; x_wconf 57' lang='lat' dir='ltr'>&#39;121‘13.·1v„</span> <span class='ocrx_word' id='word_1_4' title='bbox 1300 326 1545 403; x_wconf 78' lang='lat' dir='ltr'><strong>CAP.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1584 327 1708 431; x_wconf 76' lang='lat'>24.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1756 304 1902 402; x_wconf 65' lang='lat'>254·</span> <span class='ocrx_word' id='word_1_7' title='bbox 1955 353 1957 356; x_wconf 54' lang='lat'><strong>&gt;</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2029 389 2038 399; x_wconf 12' lang='grc' dir='ltr'><strong>Χ</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2316 325 2470 400; x_wconf 63' lang='grc'>315,</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

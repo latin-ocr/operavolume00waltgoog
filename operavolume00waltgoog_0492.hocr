@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operavolume00waltgoog/operavolume00waltgoog_0492.png"; bbox 0 0 2794 5085; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 385 337 2532 444">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 385 337 2532 444">
+     <span class='ocr_line' id='line_1_1' title="bbox 385 337 2532 444; baseline 0 -22"><span class='ocrx_word' id='word_1_1' title='bbox 385 351 537 428; x_wconf 76' lang='lat'><strong>432</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 872 348 1276 424; x_wconf 84' lang='lat' dir='ltr'><strong>ANNAL.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1326 347 1542 425; x_wconf 77' lang='lat' dir='ltr'><strong>Lm.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1572 348 1702 425; x_wconf 85' lang='lat' dir='ltr'><strong>v1.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1753 348 1992 427; x_wconf 85' lang='lat' dir='ltr'><strong>CAP.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2020 351 2146 426; x_wconf 83' lang='lat'><strong>51.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2249 337 2532 444; x_wconf 45' lang='lat'><strong>{33³3}</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 268 491 2648 589">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 268 491 2648 589">
+     <span class='ocr_line' id='line_1_2' title="bbox 268 491 2648 589; baseline 0.001 -11"><span class='ocrx_word' id='word_1_8' title='bbox 268 583 298 589; x_wconf 58' lang='grc'><strong>,,</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 384 510 526 581; x_wconf 71' lang='lat' dir='ltr'><strong>eoeit</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 565 523 845 581; x_wconf 69' lang='lat' dir='ltr'>accenta</span> <span class='ocrx_word' id='word_1_11' title='bbox 870 509 963 581; x_wconf 72' lang='lat' dir='ltr'><strong>in</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1002 505 1540 579; x_wconf 71' lang='lat' dir='ltr'><strong>matrimonium</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1583 504 1769 576; x_wconf 76' lang='lat' dir='ltr'><strong>Iulia</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1805 491 2347 581; x_wconf 74' lang='lat' dir='ltr'><strong>&#39;imundic&#39;itiam</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 2387 513 2648 581; x_wconf 80' lang='lat' dir='ltr'><strong>uxoris</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1255 2400 1954 2495">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1255 2400 1954 2495">
+     <span class='ocr_line' id='line_1_3' title="bbox 1255 2400 1954 2495; baseline -0.01 -7"><span class='ocrx_word' id='word_1_16' title='bbox 1255 2400 1530 2488; x_wconf 67' lang='lat' dir='ltr'><strong>duu2</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1577 2402 1879 2491; x_wconf 80' lang='grc'>51918</span> <span class='ocrx_word' id='word_1_18' title='bbox 1951 2489 1954 2495; x_wconf 49' lang='grc'>,</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
